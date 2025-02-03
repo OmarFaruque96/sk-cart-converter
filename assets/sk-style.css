@@ -1,0 +1,16 @@
+.order-status.status-trash {
+    background: #eba3a3;
+    color: #550202;
+}
+.order-status {
+    display: inline-flex;
+    line-height: 2.5em;
+    color: #454545;
+    background: #e5e5e5;
+    border-radius: 4px;
+    border-bottom: 1px solid rgba(0, 0, 0, .05);
+    margin: -.25em 0;
+    cursor: inherit !important;
+    white-space: nowrap;
+    max-width: 100%;
+}
